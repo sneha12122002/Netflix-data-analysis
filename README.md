@@ -83,7 +83,6 @@ This project transformed raw movie data into meaningful insights through systema
 
 
 Author : Sneha N
-Aspiring Data Analyst
 
 
-Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
+Aspiring Data Analyst | Python | SQL | Power BI | Data Visualiza
